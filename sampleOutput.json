@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Tammy Petersen",
+      "title": "State undecided whether to charge mom, gran after Cape Town hairdresser was convicted for killing boy, 1 | News24",
+      "description": "Melvin Volkwyn has been convicted of the murder of little Orderick Lucas, 1, who was found dead in a drain near his home in Cape Town. Charges may still be brought against his mother and grandmother.",
+      "url": "https://www.news24.com/news24/SouthAfrica/News/state-undecided-whether-to-charge-mom-gran-after-cape-town-hairdresser-was-convicted-for-killing-boy-1-20210830",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10835/952f44a8e5664cb8a25fb65f52fbda9c.jpg",
+      "publishedAt": "2021-08-30T06:08:50+00:00",
+      "content": "<ul><li>Melvin Volkwyn has been convicted of the murder of Orderick Lucas, 1, who was found dead in a drain near his home in Cape Town.</li><li>The Director of Public Prosecutions has not yet made a … [+4014 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Erin Parke",
+      "title": "ATO refuses to say whether 'promoter' charged over $1 million outback scam",
+      "description": "The ATO has been forced to reveal that $1 million was wrongly paid out to people in bush communities during a tax scam, but still refuses to say if its \"promoter\" has been charged.",
+      "url": "http://www.abc.net.au/news/2021-08-30/ato-forced-to-reveal-size-of-outback-tax-scam/100410644",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/93ae794f69dad9933c5bf4a69f5fc247?impolicy=wcms_crop_resize&cropH=891&cropW=1586&xPos=0&yPos=187&width=862&height=485",
+      "publishedAt": "2021-08-29T23:15:24Z",
+      "content": "The Australian Taxation Office has revealed for the first time that $1 million of taxpayer money was wrongly paid out in an outback tax scam, but is still refusing to say if anyone's been charged or … [+3499 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Kim Sengupta",
+      "title": "‘I do not know whether we’ll ever recover’: Isis-K’s murderous campaign is Afghanistan’s untold story",
+      "description": "Thursday’s Kabul airport bombing thrust Isis-K into the spotlight. But, as Kim Sengupta explains, the group has already committed a series of atrocities across Afghanistan",
+      "url": "http://www.independent.co.uk/asia/south-asia/afghanistan-kabul-airport-isis-k-b1910674.html",
+      "urlToImage": "https://static.independent.co.uk/2021/08/29/12/GettyImages-1232765187.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-08-29T12:33:55Z",
+      "content": "I recognised her eyes; a father does not forget his daughters eyes. She also had a broken front tooth from when she fell off her bike. Its these things that made me realise it was Zakia, says Rajab A… [+5300 chars]"
+    },
+    {
+      "source": { "id": "new-scientist", "name": "New Scientist" },
+      "author": null,
+      "title": "AI accurately identifies whether objects can be recycled from a glance",
+      "description": "A neural network trained on a dataset of images can identify recyclable objects to more than 95 per cent accuracy using a standard webcam",
+      "url": "https://www.newscientist.com/article/2288627-ai-accurately-identifies-whether-objects-can-be-recycled-from-a-glance/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2021/08/27120927/PRI_196444852.jpg",
+      "publishedAt": "2021-08-27T00:00:00Z",
+      "content": "By Chris Stokel-Walker\r\nBales of plastic waste at a materials recycling facility in the UK\r\nPeter Alvey / Alamy\r\nA neural network trained on a dataset of images can identify recyclable objects to mor… [+360 chars]"
+    },
+    {
+      "source": { "id": "medical-news-today", "name": "Medical News Today" },
+      "author": "Maria Cohut, Ph.D.",
+      "title": "Delta variant of SARS-CoV-2: Can vaccine boosters stop its spread?",
+      "description": "In this Special Feature, Medical News Today looks at whether or not vaccine boosters may improve protection against the Delta variant of SARS-CoV-2.",
+      "url": "http://www.medicalnewstoday.com/articles/delta-variant-of-sars-cov-2-can-vaccine-boosters-stop-its-spread",
+      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/08/GettyImages-1234489615_thumb.jpg",
+      "publishedAt": "2021-08-19T17:45:00Z",
+      "content": "The Delta variant of SARS-CoV-2, the virus that causes COVID-19, is more transmissible than preexisting variants, and it has rapidly become the dominant variant in several countries, including India … [+8765 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "MSNBC",
+      "title": "China weighs whether to abandon Covid zero-tolerance approach",
+      "description": "Rising infections have prompted some to ask whether Beijing's zero-tolerance approach will be enough to stop the delta variant fueling the current Covid wave.",
+      "url": "https://www.nbcnews.com/news/world/china-weighs-whether-abandon-covid-zero-tolerance-approach-n1276333",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_31/3497284/210806-china-covid-mb-1633.JPG",
+      "publishedAt": "2021-08-10T08:33:00Z",
+      "content": "China's current Covid-19 outbreak would barely register as a blip for most countries, with 125 cases recorded Monday among its 1.4 billion people.\r\nBut infections have risen sharply since the middle … [+6635 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Wired",
+      "title": "13 Best Fitness Trackers (2021): Watches, Bands, Rings, and More",
+      "description": "Whether you’re skiing in the backcountry or trampolining in the backyard, we have an activity tracker for you.",
+      "url": "https://www.wired.com/gallery/best-fitness-tracker/",
+      "urlToImage": "https://media.wired.com/photos/6037e34122a925a643e13a09/191:100/w_2580,c_limit/Gear-Garmin-Lily-Sport.jpg",
+      "publishedAt": "2018-04-01T13:00:00Z",
+      "content": "Like every piece of gear you wear on your body day in and day out, fitness trackers are incredibly personal. Not only do they have to be comfortable and attractive, but they must also accommodate you… [+875 chars]"
+    }
+  ]
+}
